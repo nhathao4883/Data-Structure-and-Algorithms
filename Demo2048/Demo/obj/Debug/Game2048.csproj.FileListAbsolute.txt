@@ -1,0 +1,60 @@
+O:/Demo2048/Demo/bin/Debug/Demo.exe.config
+O:/Demo2048/Demo/obj/Debug/Demo.exe
+O:/Demo2048/Demo/obj/Debug/Demo.pdb
+O:/Demo2048/Demo/bin/Debug/Demo.exe
+O:/Demo2048/Demo/bin/Debug/Demo.pdb
+O:/Demo2048/Demo/obj/Debug/Game2048.csprojResolveAssemblyReference.cache
+O:/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+O:/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+O:/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.Cache
+E:/Download/Demo2048/Demo/bin/Debug/Demo.exe.config
+E:/Download/Demo2048/Demo/obj/Debug/Demo.exe
+E:/Download/Demo2048/Demo/obj/Debug/Demo.pdb
+E:/Download/Demo2048/Demo/bin/Debug/Demo.exe
+E:/Download/Demo2048/Demo/bin/Debug/Demo.pdb
+E:/Download/Demo2048/Demo/obj/Debug/Game2048.csprojResolveAssemblyReference.cache
+E:/Download/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+E:/Download/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+E:/Download/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.Cache
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/bin/Debug/Demo.exe.config
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.exe
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.pdb
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/bin/Debug/Demo.exe
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/bin/Debug/Demo.pdb
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/obj/Debug/Game2048.csprojResolveAssemblyReference.cache
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+C:/Users/Administrator/Downloads/DemoGame2048/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.Cache
+D:/Download/DemoGame2048/Demo2048/Demo/bin/Debug/Demo.exe.config
+D:/Download/DemoGame2048/Demo2048/Demo/bin/Debug/Demo.exe
+D:/Download/DemoGame2048/Demo2048/Demo/bin/Debug/Demo.pdb
+D:/Download/DemoGame2048/Demo2048/Demo/obj/Debug/Game2048.csprojAssemblyReference.cache
+D:/Download/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+D:/Download/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+D:/Download/DemoGame2048/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.cache
+D:/Download/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.exe
+D:/Download/DemoGame2048/Demo2048/Demo/obj/Debug/Demo.pdb
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/bin/Debug/Demo.exe.config
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/bin/Debug/Demo.exe
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/bin/Debug/Demo.pdb
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/obj/Debug/Game2048.csprojAssemblyReference.cache
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.cache
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/obj/Debug/Demo.exe
+D:/Cau Truc Du Lieu & Giai Thuat/Demo2048/Demo/obj/Debug/Demo.pdb
+E:/Demo2048/Demo/bin/Debug/Demo.exe.config
+E:/Demo2048/Demo/bin/Debug/Demo.exe
+E:/Demo2048/Demo/bin/Debug/Demo.pdb
+E:/Demo2048/Demo/obj/Debug/Game2048.csprojAssemblyReference.cache
+E:/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+E:/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+E:/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.cache
+E:/Demo2048/Demo/obj/Debug/Demo.exe
+E:/Demo2048/Demo/obj/Debug/Demo.pdb
+/Volumes/NO NAME/Demo2048/Demo/obj/Debug/Game2048.csprojAssemblyReference.cache
+/Volumes/NO NAME/Demo2048/Demo/obj/Debug/Demo.Form1.resources
+/Volumes/NO NAME/Demo2048/Demo/obj/Debug/Demo.Properties.Resources.resources
+/Volumes/NO NAME/Demo2048/Demo/obj/Debug/Game2048.csproj.GenerateResource.cache
+/Volumes/NO NAME/Demo2048/Demo/obj/Debug/Demo.exe
+/Volumes/NO NAME/Demo2048/Demo/obj/Debug/Demo.pdb
